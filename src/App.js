@@ -12,10 +12,10 @@ import Store5 from './Store5/Store5';
 function App() {
   return (
     <Router>    
-    <Nav/>
+   <Nav/>
     <Routes>
-    
-    <Route path ="/" element={<MainStore/>}/>
+
+    <Route path ="/Main" element={<MainStore/>}/>
     <Route path ="/store1" element={<Store1/>}/>
     <Route path ="/store2" element={<Store2/>}/>
     <Route path ="/store3" element={<Store3/>}/>

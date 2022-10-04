@@ -9,12 +9,15 @@ const Nav = () => {
     <div className='Main'>
     <div className='Nav'>
     <h2 className='Logo'><FaStoreAlt /></h2>
-    <h2> Store and recipes  </h2>
-    <button  className='Btn2' onClick={() => {Nav('/')}} >Home</button>
+    <h2 > Store and recipes  </h2>
+    <button  className='Btn2' onClick={() => {Nav('/Main')}} >stores</button>
+
+    <button  className='Btn2' onClick={() => {Nav('/Main')}} >Back</button>
     
     
      </div>
-    </div>
+
+     </div>
   )
 }
 
