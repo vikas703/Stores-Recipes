@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Stores-Recipes/static/css/main.642ebc6a.css",
+    "main.js": "/Stores-Recipes/static/js/main.df141f93.js",
+    "static/js/787.3e22468a.chunk.js": "/Stores-Recipes/static/js/787.3e22468a.chunk.js",
+    "static/media/Fish.jpg": "/Stores-Recipes/static/media/Fish.17485185468c5747f0a3.jpg",
+    "static/media/Kfc5.png": "/Stores-Recipes/static/media/Kfc5.79c909e801a1dffa9991.png",
+    "static/media/Kfc4.webp": "/Stores-Recipes/static/media/Kfc4.e4be523cfd62cf682690.webp",
+    "static/media/Kfc3.webp": "/Stores-Recipes/static/media/Kfc3.746a7a01709ce2a042db.webp",
+    "static/media/Palak.jpg": "/Stores-Recipes/static/media/Palak.16230fa79a8f90df09a8.jpg",
+    "static/media/Faham.jpg": "/Stores-Recipes/static/media/Faham.2a6272e9df1221da482c.jpg",
+    "static/media/Egg.jpg": "/Stores-Recipes/static/media/Egg.da2e7999a36db7ccee83.jpg",
+    "static/media/Chicken.webp": "/Stores-Recipes/static/media/Chicken.dcee19b294ff59def13d.webp",
+    "static/media/Methi.jpg": "/Stores-Recipes/static/media/Methi.200ed821d3aefcfcb7fe.jpg",
+    "static/media/Mutton.jpg": "/Stores-Recipes/static/media/Mutton.35a28eaba1b23b6ed2ac.jpg",
+    "static/media/Mutton.webp": "/Stores-Recipes/static/media/Mutton.13a79a98a41610886457.webp",
+    "static/media/Dum.jfif": "/Stores-Recipes/static/media/Dum.14e0790f4bc06f5e094d.jfif",
+    "static/media/Kadai.jpg": "/Stores-Recipes/static/media/Kadai.0c3ace39f3247e196040.jpg",
+    "static/media/Paneer.jpg": "/Stores-Recipes/static/media/Paneer.bd26d009005dd62ee8ab.jpg",
+    "static/media/Tadka.webp": "/Stores-Recipes/static/media/Tadka.7cf5bea866cc3dab3233.webp",
+    "static/media/Veg.jpg": "/Stores-Recipes/static/media/Veg.304ff5cddf3c3eef17ce.jpg",
+    "static/media/Handi.jpg": "/Stores-Recipes/static/media/Handi.e0f266774ce68db6f345.jpg",
+    "static/media/KFC.jpg": "/Stores-Recipes/static/media/KFC.39f056dd9c25fb47b5b3.jpg",
+    "static/media/Mandi.jpeg": "/Stores-Recipes/static/media/Mandi.f8b1953698c25fa36154.jpeg",
+    "static/media/Tomato.webp": "/Stores-Recipes/static/media/Tomato.ce296440f5f4f303a933.webp",
+    "static/media/Kfc2.jpg": "/Stores-Recipes/static/media/Kfc2.c188541b08f15077795e.jpg",
+    "static/media/Fry.jpg": "/Stores-Recipes/static/media/Fry.5627e9dc4128c1674bb1.jpg",
+    "static/media/Paradise.jpeg": "/Stores-Recipes/static/media/Paradise.c56c983f3108758aecaa.jpeg",
+    "static/media/hqdefault.jpg": "/Stores-Recipes/static/media/hqdefault.2787d2c471c9598c4114.jpg",
+    "static/media/Six.jpeg": "/Stores-Recipes/static/media/Six.bc78ab6b184af57adc8a.jpeg",
+    "static/media/Fryed.jfif": "/Stores-Recipes/static/media/Fryed.0a27243c92ff76fa3f17.jfif",
+    "index.html": "/Stores-Recipes/index.html",
+    "main.642ebc6a.css.map": "/Stores-Recipes/static/css/main.642ebc6a.css.map",
+    "main.df141f93.js.map": "/Stores-Recipes/static/js/main.df141f93.js.map",
+    "787.3e22468a.chunk.js.map": "/Stores-Recipes/static/js/787.3e22468a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.642ebc6a.css",
+    "static/js/main.df141f93.js"
+  ]
+}
