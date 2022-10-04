@@ -1,0 +1,68 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.Container{
+    justify-content: center;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+
+.Box{
+    margin-left: 0;
+    width: 300px;
+    height: 400px;
+    background-color: rgb(41, 110, 249);
+    box-sizing: border-box;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 3%;
+}
+
+.Box:hover{
+    background-color: whitesmoke;
+    color: black;
+    
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
+.Btn{
+    size: 20px;
+    background-color: black;
+    color: azure;
+    padding: 5px;
+    display: block;
+    text-align: center;
+    margin: 20px 0;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    transition: 0.2s;
+    border: 0;
+    cursor: pointer;
+
+}
+
+.Btn:hover{
+    color: #255784;
+    background: #2196f3;
+    box-shadow: 0 0 10px #2196f3,0 0 40px #2196f3,0 0 80px #2196f3;
+    transition: all 1s ease;
+    
+}
+
+
+
+
+
+.Img{
+    width: 90%;
+    height:40%;
+}
