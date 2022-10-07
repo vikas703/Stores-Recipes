@@ -15,7 +15,7 @@ function App() {
    <Nav/>
     <Routes>
 
-    <Route path ="/Main" element={<MainStore/>}/>
+    <Route path ="/" element={<MainStore/>}/>
     <Route path ="/store1" element={<Store1/>}/>
     <Route path ="/store2" element={<Store2/>}/>
     <Route path ="/store3" element={<Store3/>}/>
@@ -31,4 +31,4 @@ function App() {
 }
 
 export default App;
-//<Route exact path="/Cart" element={<Cart/>}/>
+//"homepage": "http://vikas703.github.io/Stores-Recipes",
