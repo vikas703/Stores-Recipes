@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Stores-Recipes/static/css/main.9bc787a4.css",
-    "main.js": "/Stores-Recipes/static/js/main.5962d826.js",
+    "main.js": "/Stores-Recipes/static/js/main.49fa5d20.js",
     "static/js/787.3e22468a.chunk.js": "/Stores-Recipes/static/js/787.3e22468a.chunk.js",
     "static/media/Fish.jpg": "/Stores-Recipes/static/media/Fish.17485185468c5747f0a3.jpg",
     "static/media/Kfc5.png": "/Stores-Recipes/static/media/Kfc5.79c909e801a1dffa9991.png",
@@ -32,11 +32,11 @@
     "static/media/Fryed.jfif": "/Stores-Recipes/static/media/Fryed.0a27243c92ff76fa3f17.jfif",
     "index.html": "/Stores-Recipes/index.html",
     "main.9bc787a4.css.map": "/Stores-Recipes/static/css/main.9bc787a4.css.map",
-    "main.5962d826.js.map": "/Stores-Recipes/static/js/main.5962d826.js.map",
+    "main.49fa5d20.js.map": "/Stores-Recipes/static/js/main.49fa5d20.js.map",
     "787.3e22468a.chunk.js.map": "/Stores-Recipes/static/js/787.3e22468a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9bc787a4.css",
-    "static/js/main.5962d826.js"
+    "static/js/main.49fa5d20.js"
   ]
 }
