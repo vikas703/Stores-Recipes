@@ -10,7 +10,8 @@ const Nav = () => {
     <div className='Nav'>
     <h2 className='Logo'><FaStoreAlt /></h2>
     <h2 > Store and recipes  </h2>
-    <button  className='Btn2' onClick={() => {Nav('/')}} >Back</button>
+    <button  className='Btn2' onClick={() => {Nav('/Main')}} >Stores</button>
+    <button  className='Btn2' onClick={() => {Nav('/Main')}} >Back</button>
 
      </div>
 
